@@ -2,6 +2,8 @@
 
 SlidingView is a SwiftUI view container that makes it easy to hide/show supplementary views. Animations are customizable and can be "percent" driven by drag gestures. Used for creating a "Side Menu", "Slide Out", "Navigation Drawer", "Hamburger Menu/Drawer/Sidebar", etc...
 
+![SlidingView Demo](https://media.giphy.com/media/3nOVO8b9bTsVuhgNBs/giphy.gif)
+
 ## How it works
 
 The basic idea of `SlidingView` is that it is a view container that provides you with `DraggableAnimation` instances and a `GeometryProxy`.
